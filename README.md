@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Screenshot
 
-![image](https://user-images.githubusercontent.com/68507071/215890786-7bc05c63-9320-4bc7-bfad-c0390e4a215a.png)
+![image](https://user-images.githubusercontent.com/68507071/215892795-26983fc6-129f-4dd9-a3e9-eaf77ee8b1d8.png)
 
 
 ### Links
